@@ -24,6 +24,16 @@ Project objectives:
 * Creating a functional and fun game.
 * Demonstration of the basics of developing 2D games in C++ using OpenGL.
 
+### Controls
+
+| Keyboard | Action     |
+|:---------|:----------:|
+| ESC      | Game pause |
+| W        | Move Up    |
+| S        | Move Down  |
+| A        | Move Left  |
+| D        | Move Right |
+
 ### Build
 
 ### Installing the necessary tools 
@@ -43,6 +53,12 @@ Project objectives:
    ```
 4. Open project folder in Visual Studio 2022
 5. Run build project
+
+## Used libraries
+- [GLAD](https://github.com/Dav1dde/glad/)
+- [GLFW 3](http://www.glfw.org/)
+- [GLM](https://github.com/icaven/glm/)
+- [Dear ImGui](https://github.com/ocornut/imgui)
 
 <!-- LICENSE -->
 ## License
