@@ -55,10 +55,10 @@ Project objectives:
 5. Run build project
 
 ## Used libraries
-- [GLAD](https://github.com/Dav1dde/glad/)
-- [GLFW 3](http://www.glfw.org/)
-- [GLM](https://github.com/icaven/glm/)
-- [Dear ImGui](https://github.com/ocornut/imgui)
+* **[GLAD](https://github.com/Dav1dde/glad/)**: OpenGL function loader.  Provides platform-independent access to OpenGL functions.
+* **[GLFW 3](http://www.glfw.org/)**: Cross-platform windowing library. Handles window creation, input, and OpenGL context management.
+* **[GLM](https://github.com/icaven/glm/)**: OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
+* **[Dear ImGui](https://github.com/ocornut/imgui/)**: Immediate Mode GUI library.  A simple and efficient way to create in-application user interfaces.
 
 <!-- LICENSE -->
 ## License
